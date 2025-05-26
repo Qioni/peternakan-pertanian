@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Materi Ternak Ayam</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Materi Ternak Ayam Broiler</h1>
+    <nav>
+      <a href="index.html">Beranda</a>
+      <a href="materi.html">Materi</a>
+    </nav>
+  </header>
+
+  <section>
+    <h2>Langkah Ternak Ayam Broiler</h2>
+    <ul>
+      <li><strong>Kandang:</strong> ventilasi baik, sekam kering</li>
+      <li><strong>D.O.C:</strong> aktif, mata cerah</li>
+      <li><strong>Pakan:</strong> Starter (1–14 hari), Grower (15–35 hari)</li>
+      <li><strong>Vaksin:</strong> ND hari ke-4</li>
+      <li><strong>Panen:</strong> umur 28–35 hari, berat 1.8–2.2 kg</li>
+    </ul>
+
+    <h2>Contoh Rencana Anggaran Biaya (RAB) – 408 Ekor</h2>
+    <table border="1" cellpadding="8" cellspacing="0">
+      <thead>
+        <tr><th>Komponen</th><th>Biaya</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>DOC 408 ekor</td><td>Rp2.856.000</td></tr>
+        <tr><td>Pakan 5 karung</td><td>Rp1.850.000</td></tr>
+        <tr><td>Vitamin & Vaksin</td><td>Rp200.000</td></tr>
+        <tr><td>Listrik & Lampu</td><td>Rp150.000</td></tr>
+        <tr><td>Sekam</td><td>Rp100.000</td></tr>
+        <tr><td>Obat & Disinfektan</td><td>Rp200.000</td></tr>
+        <tr><td>Upah tenaga kerja</td><td>Rp500.000</td></tr>
+        <tr><td>Lain-lain</td><td>Rp144.000</td></tr>
+        <tr><td><strong>Total</strong></td><td><strong>Rp6.000.000</strong></td></tr>
+      </tbody>
+    </table>
+
+    <p><strong>Omzet:</strong> 360 ekor × 1.8 kg × Rp35.000 = Rp22.680.000</p>
+    <p><strong>Laba Bersih:</strong> Rp22.680.000 - Rp6.000.000 = Rp16.680.000</p>
+  </section>
+
+  <footer>
+    <p>© 2025 - Website Peternakan dan Pertanian</p>
+  </footer>
+</body>
+</html>
