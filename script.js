@@ -1,0 +1,1 @@
+console.log("Website Peternakan dan Pertanian aktif!");
